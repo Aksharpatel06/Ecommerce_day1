@@ -15,7 +15,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       home: SafeArea(
           child: Scaffold(
-            backgroundColor: Colors.black,
+            backgroundColor: Colors.white,
             bottomNavigationBar: const BottomAppBar(
                 color: Color(0xffFF9800),
               child:Center(
